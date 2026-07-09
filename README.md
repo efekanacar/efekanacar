@@ -1,84 +1,27 @@
-# 👋 Hi, I'm Efekan Acar
+# ⚡ Hi, I'm Efekan Acar 
 
-🔐 **Security Operations Center (SOC) Analyst**  
-📍 Turkey  
-🧠 2+ years of experience in Blue Team, Security Monitoring & Digital Forensics  
-
----
-
-## 🛡️ About Me
-
-I am a SOC Analyst with hands-on experience in:
-- Security monitoring & incident analysis  
-- SIEM & log analysis  
-- Endpoint and network security  
-- Digital forensics and malware analysis  
-- Python & Bash scripting for security automation  
-
-I enjoy researching security incidents, writing detection logic, and sharing what I learn through projects and notes.
+🛡️ **Security Operations Center (SOC) Analyst | Blue Teamer**
+📍 Turkey
+🧠 2+ years of hands-on experience in Blue Team operations, Security Monitoring, & Digital Forensics.
 
 ---
 
-## 🧰 Technical Skills
+### 🕵️‍♂️ About Me
+I am a SOC Analyst focused on proactive threat detection, log correlation, and incident response. I build practical environments to simulate attacks and engineer detection logic. My workflow spans from configuring log sources to writing precise SPL/Sigma rules that minimize false positives.
 
-- **SIEM & SOC:** Log analysis, alert triage, incident response  
-- **Security Tools:** SIEM, EDR, IDS/IPS  
-- **Programming:** Python, Bash  
-- **Operating Systems:** Linux, Windows  
-- **Forensics:** Memory analysis, disk analysis  
-- **Concepts:** Blue Team, Threat Detection, Cyber Security Fundamentals  
+*   🔭 **Current Focus:** Expanding my end-to-end SOC Home Lab, simulating OWASP/MITRE attacks, and writing advanced detection rules.
+*   ✍️ **Writing:** I regularly document my case studies and lab activities on my [Medium](https://medium.com/@efekanacar).
 
 ---
 
-## 📂 Featured Repositories
+### 🛠️ Technical Skills
 
-### 🔹 [Linear-Regression](https://github.com/efekanacar/Linear-Regression)
-Python implementation of **Least Squares Linear Regression**  
-Focuses on understanding mathematical foundations and practical coding.
-
-**Tech:** Python
-
----
-
-### 🔹 [Digital.Forensics](https://github.com/efekanacar/Digital.Forensics)
-Notes and studies related to **Digital Forensics**  
-Includes forensic concepts, analysis techniques, and investigation basics.
+*   **SIEM & Detection:** Splunk, ELK Stack, Sigma Rules, Log Correlation, Alert Triage
+*   **Security & OS:** Wazuh EDR, Sysmon, Linux (Ubuntu Server), Windows Internals
+*   **Scripting & Auto:** Python, Bash, Security Automation
+*   **Methodologies:** MITRE ATT&CK, OWASP, Incident Response Lifecycle
 
 ---
 
-### 🔹 [Cyber.Security](https://github.com/efekanacar/Cyber.Security)
-Cyber security fundamentals and personal research notes.  
-Useful for Blue Team & SOC-oriented learning.
-
----
-
-### 🔹 [Python.Projects](https://github.com/efekanacar/Python.Projects)
-Various Python projects focusing on:
-- Security
-- Automation
-- Learning purposes
-
----
-
-### 🔹 [Bash.Projects](https://github.com/efekanacar/Bash.Projects)
-Shell scripts for Linux systems, automation, and basic security tasks.
-
----
-
-## 📚 Interests
-
-- SOC & Blue Team operations  
-- Threat detection & analysis  
-- Digital forensics  
-- Security automation with Python  
-- Learning and documenting cybersecurity topics  
-
----
-
-## 📫 Contact
-
-- GitHub: [github.com/efekanacar](https://github.com/efekanacar)
-
----
-
-⭐ Feel free to explore my repositories and follow my learning journey.
+📬 **Connect with me:** 
+[LinkedIn](https://linkedin.com/in/efekanacar-128911b4) | [Medium](https://medium.com/@efekanacar)
