@@ -17,7 +17,7 @@ I am a SOC Analyst focused on proactive threat detection, log correlation, and i
 ### 🛠️ Technical Skills
 
 *   **SIEM & Detection:** Splunk, ELK Stack, Sigma Rules, Log Correlation, Alert Triage
-*   **Security & OS:** Wazuh EDR, Sysmon, Linux (Ubuntu Server), Windows Internals
+*   **Security & OS:** Sysmon, Linux (Ubuntu Server), Windows Internals
 *   **Scripting & Auto:** Python, Bash, Security Automation
 *   **Methodologies:** MITRE ATT&CK, OWASP, Incident Response Lifecycle
 
