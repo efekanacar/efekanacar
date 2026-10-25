@@ -1,6 +1,6 @@
 # ⚡ Hi, I'm Efekan Acar 
 
-🛡️ **Cyber Security Analyst | Blue Teamer**
+🛡️ **Cyber Security Engineer | Blue Teamer**
 📍 Turkey
 🧠 2+ years of hands-on experience in Blue Team operations, Security Monitoring, & Digital Forensics.
 
